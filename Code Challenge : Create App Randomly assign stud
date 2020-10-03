@@ -1,0 +1,5 @@
+var students = ["Joshua", "Anson", "Matthew", "Sivashankari","Vincent"]
+
+var randomNumber = Math.floor(Math.random() *
+ students.length);
+console.log(students[randomNumber]+ " will do the exercise")
