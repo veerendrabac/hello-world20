@@ -1,0 +1,15 @@
+// Number methods
+
+var myNumber = 10.23456789
+
+console.log(myNumber.toFixed(3));
+console.log(myNumber.toPrecision(3));
+
+// Math
+
+var anotherNumber = 10.2
+console.log(Math.round(anotherNumber));
+console.log(Math.ceil(anotherNumber));
+console.log(Math.floor(anotherNumber));
+
+console.log(Math.random());
