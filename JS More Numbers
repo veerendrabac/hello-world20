@@ -13,3 +13,6 @@ console.log(Math.ceil(anotherNumber));
 console.log(Math.floor(anotherNumber));
 
 console.log(Math.random());
+var randomNumber = Math.ceil(Math.random() * 
+100)
+console.log(randomNumber)
