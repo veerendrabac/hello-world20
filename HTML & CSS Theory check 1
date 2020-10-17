@@ -1,0 +1,22 @@
+1. Element : start and end with tag <h1></h1>,p, br
+  Attributes : before the "equal to sign" . src, img
+  Entity : with & symbol : &nbsp, &lt, &gt
+  
+2. CSS white color :
+rgb - rgb(255,255,255)
+hexa representation : #FFFFFF
+HSL - (0,100,100)
+
+3. Change state of the link : active, normal, hover, visited.
+
+5. change font on website 
+- By adding style tag on head, and all css will be between the style tag
+- By adding an external file, and linking it to the html file  
+- By creating an inline style
+ 
+
+6. Text horizontal :text-align: center
+   Text vertical : vertical-align: text-top;
+   Text uppercase : text-transform:uppercase;
+   Add strike : text-decoration: line-through
+   
